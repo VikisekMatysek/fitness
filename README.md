@@ -1,42 +1,58 @@
-# fitness
-Na tvorbě projektu Mr. Olympia – profesionální webová prezentace se podílela umělá inteligence GPT-5 (ChatGPT, OpenAI), která využila moderní technologie webového vývoje i designových principů.
+<h1 align="center">🏋️‍♂️ Mr. Olympia – Profesionální webová prezentace</h1>
 
-1. HTML a CSS
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mr._Olympia_Logo.png" width="200" alt="Mr. Olympia Logo">
+</p>
 
-Struktura stránky je vytvořena v HTML5, což zajišťuje semantickou a přístupnou kostru webu.
+<p align="center">
+  <strong>Luxusní sportovní web věnovaný nejprestižnější kulturistické soutěži na světě.</strong><br>
+  Vytvořeno s pomocí moderních webových technologií a umělé inteligence GPT-5.
+</p>
 
-CSS3 zajišťuje moderní vzhled, animace, přechody, responzivitu a grid layouty.
+---
 
-Styl je vytvořen s důrazem na čitelnost, komentáře a snadnou údržbu.
+## 🌐 O projektu
 
-2. Responzivní design
+Projekt **Mr. Olympia** představuje moderní a vizuálně propracovanou webovou stránku, která oslavuje světovou soutěž v kulturistice.  
+Obsahuje:
+- přehled o soutěži a její historii,  
+- profily nejslavnějších vítězů (Arnold Schwarzenegger, Ronnie Coleman, Lee Haney, Phil Heath),  
+- galerii s fotografiemi,  
+- moderní responzivní design a luxusní atmosféru.
 
-Kód využívá flexbox a CSS grid pro flexibilní přizpůsobení obsahu různým zařízením.
+<details>
+<summary><b>📸 Náhled projektu</b></summary>
+<br>
+<img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1600&q=80" width="100%">
+</details>
 
-Média dotazy (@media) optimalizují rozložení pro mobily, tablety i velké obrazovky.
+---
 
-3. Typografie a vizuální identita
+## 🧠 Technologie a nástroje použité AI
 
-Web používá kombinaci moderních fontů (Inter, Playfair Display), které propojují sportovní sílu s elegancí.
+### 🏗️ Front-end
+<ul>
+<li><b>HTML5</b> – moderní a přístupná struktura webu</li>
+<li><b>CSS3</b> – prémiové styly, přechody, gradienty, stíny a animace</li>
+<li><b>Flexbox + Grid</b> – perfektní rozložení pro všechna zařízení</li>
+<li><b>Responzivní design</b> – optimalizace pro mobily, tablety i desktopy</li>
+<li><b>Root proměnné</b> – snadná úprava barev a fontů</li>
+</ul>
 
-Paleta barev byla navržena na základě psychologických principů kontrastu, luxusu a dominance (černá + zlatá).
+### 🎨 Design & UX
+<ul>
+<li>Paleta barev: černá + zlatá (síla, luxus, dominance)</li>
+<li>Typografie: <code>Inter</code> + <code>Playfair Display</code></li>
+<li>Moderní efekty: glassmorphism, hover animace, micro-interactions</li>
+<li>Minimalistické rozvržení inspirované sportovním brandem</li>
+</ul>
 
-4. AI design a generování kódu
+### 🤖 Umělá inteligence GPT-5
+Umělá inteligence **OpenAI GPT-5** navrhla:
+- strukturu HTML a CSS kódu,  
+- barevné schéma a typografii,  
+- efekty a rozložení prvků,  
+- optimalizaci pro UX a responzivitu,  
+- a přidala doporučení pro profesionální prezentaci.
 
-Struktura projektu byla vygenerována pomocí umělé inteligence GPT-5, která:
-
-navrhla architekturu webu a sekce,
-
-napsala kód HTML a CSS dle moderních standardů,
-
-optimalizovala formátování a hierarchii stylů,
-
-aplikovala UX zásady a přidala efekty jako přechody, stíny a mikrointerakce.
-
-5. Moderní přístupy k vývoji
-
-Projekt respektuje principy modulárního CSS (proměnné, oddělené sekce, přehlednost).
-
-Použití root proměnných (--accent, --surface, --muted) usnadňuje úpravy designu.
-
-Kód je připravený na rozšíření o JavaScriptové efekty (např. interaktivní galerie, modální okna, přechody mezi sekcemi).
+---
